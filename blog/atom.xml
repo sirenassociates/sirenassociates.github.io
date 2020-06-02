@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sirenassociates.github.io/impact-documentation/blog</id>
+    <title>IMPACT Documentation Blog</title>
+    <updated>2020-06-02T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sirenassociates.github.io/impact-documentation/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest IMPACT Documentation news and events.</subtitle>
+    <logo>https://sirenassociates.github.io/impact-documentation/img/ImpactLogo.svg</logo>
+    <rights>Copyright © 2020 Siren Associates</rights>
+    <entry>
+        <title type="html"><![CDATA[First Launch]]></title>
+        <id>https://sirenassociates.github.io/impact-documentation/blog/2020/06/02/blog-post.html</id>
+        <link href="https://sirenassociates.github.io/impact-documentation/blog/2020/06/02/blog-post.html"/>
+        <updated>2020-06-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>We have just released the first version of our documentation website with our first entry in Docs.</p>
+]]></summary>
+        <author>
+            <name>Roy Bou Hadir</name>
+            <email/>
+            <uri/>
+        </author>
+    </entry>
+</feed>

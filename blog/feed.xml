@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>IMPACT Documentation Blog</title>
+        <link>https://sirenassociates.github.io/impact-documentation/blog</link>
+        <description>The best place to stay up-to-date with the latest IMPACT Documentation news and events.</description>
+        <lastBuildDate>Tue, 02 Jun 2020 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>IMPACT Documentation Blog</title>
+            <url>https://sirenassociates.github.io/impact-documentation/img/ImpactLogo.svg</url>
+            <link>https://sirenassociates.github.io/impact-documentation/blog</link>
+        </image>
+        <copyright>Copyright © 2020 Siren Associates</copyright>
+        <item>
+            <title><![CDATA[First Launch]]></title>
+            <link>https://sirenassociates.github.io/impact-documentation/blog/2020/06/02/blog-post.html</link>
+            <guid>https://sirenassociates.github.io/impact-documentation/blog/2020/06/02/blog-post.html</guid>
+            <pubDate>Tue, 02 Jun 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>We have just released the first version of our documentation website with our first entry in Docs.</p>
+]]></description>
+        </item>
+    </channel>
+</rss>
